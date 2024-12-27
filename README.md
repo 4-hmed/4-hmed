@@ -27,6 +27,3 @@ Je suis Ahmed Ghemari, étudiant en première année à [CESI École d'Ingénieu
 <a href="mailto:ahmed.ghemari@proton.me"><img src="https://img.shields.io/badge/-ahmed.ghemari@proton.me-6D4AFF?&style=for-the-badge&logo=proton-mail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/ahmed-ghemari"><img src="https://img.shields.io/badge/-ahmed_ghemari-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-
-N'hésitez pas à explorer mes dépôts et à contribuer si vous partagez mes centres d'intérêt. Ensemble, construisons un avenir plus sûr et ouvert !
-
