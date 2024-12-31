@@ -19,9 +19,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=4-hmed&theme=github_dark" height="190" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kira-mari&theme=github_dark" height="190" />
 </div>
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=4-hmed&theme=github_dark" height="190" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=4-hmed&theme=github_dark&utcOffset=1" height="190" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kira-mari&theme=github_dark" height="190" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kira-mari&theme=github_dark&utcOffset=1" height="190" />
 </div>
